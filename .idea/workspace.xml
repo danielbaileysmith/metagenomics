@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="" />
+    <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -36,6 +42,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2724" y="198" key="#Notifications" timestamp="1582490610042">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2724" y="198" key="#Notifications/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582490610042" />
+    <state x="2869" y="405" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582495053062">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2869" y="405" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495053062" />
+    <state x="2750" y="134" key="CommitChangelistDialog2" timestamp="1582494979554">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2750" y="134" key="CommitChangelistDialog2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582494979554" />
     <state x="2912" y="297" key="FileChooserDialogImpl" timestamp="1582487752992">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
@@ -44,13 +62,18 @@
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
     <state x="2633" y="185" key="SettingsEditor/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582488066544" />
-    <state x="301" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582487219972">
-      <screen x="0" y="0" width="1200" height="800" />
-    </state>
-    <state x="301" y="224" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@0.0.1200.800" timestamp="1582487219972" />
-    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582488675366">
+    <state x="2724" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582495116316">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
-    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582488675366" />
+    <state x="2724" y="272" key="Vcs.Push.Dialog.v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495116316" />
+    <state x="2282" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1582490554561">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="301" y="224" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@0.0.1200.800" timestamp="1582487219972" />
+    <state x="2282" y="302" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582490554561" />
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582495082115">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495082115" />
   </component>
 </project>
