@@ -18,6 +18,6 @@ with open(data_file, 'r') as taxidf:
 
 # hash functions? how to import/use
 # figure out default dict
-# comment to check sync!
+# comment to check sync!!
 print(list(taxid_analysis.values()))
 
