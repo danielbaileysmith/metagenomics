@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1YDpoAPzSJ4CZBJhfV1KbxpAvBx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="" />
+      <created>1582487192302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582487192302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2912" y="297" key="FileChooserDialogImpl" timestamp="1582487752992">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2912" y="297" key="FileChooserDialogImpl/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582487752992" />
+    <state x="2633" y="185" key="SettingsEditor" timestamp="1582488066544">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2633" y="185" key="SettingsEditor/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582488066544" />
+    <state x="301" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582487219972">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state x="301" y="224" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@0.0.1200.800" timestamp="1582487219972" />
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582488198442">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582488198442" />
+  </component>
+</project>
