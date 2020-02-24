@@ -1,28 +1,24 @@
-# Daniel Bailey Smith -- 2/23/2020
+#Daniel Bailey Smith -- 2/23/2020
 
-data_file = 'example_data.clp'
-df = data_file
+data_set = 'example_data.clp'
+ds = data_set
 
-taxid_analysis = {}
-with open(df, 'r') as df:
-    for line in df:
-        key_raw = tuple(line.strip().split(":")[-1].split(","))
-        if len(key_raw) >= 50:
+with open(ds, 'r') as ds:
+    ds_analysis = {}
+    for line in ds:
+        raw_key = tuple(line.strip().split(":")[-1].split(","))
+        if len(raw_key) >= 50:
             continue
         else:
-            key = hash(key_raw)
-            if key in taxid_analysis:
-                taxid_analysis[key] += 1
+            key = hash(raw_key)
+            if key in ds_analysis:
+                ds_analysis[key] += 1
             else:
-                taxid_analysis[key] = 1
+                ds_analysis[key] = 1
+    ds_key_legend = {}
+    for key, key in zip (raw_key, ds_analysis.keys()):
+        ds_key_legend[key] = raw_key
 
-
-#append a key value to a set
-#cat each output and combine them together
-#run hash on all them to reverse
-
-# hash functions? how to import/use
-# figure out default dict
-print(list(taxid_analysis.values()))
-print(list(taxid_analysis.keys()))
-print(taxid_analysis)
+with open('output_file.txt', 'w') as of:
+    of.write(str(ds_analysis) + '\n' * 3)
+    of.write(str(ds_key_legend))

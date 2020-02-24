@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internship.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,19 @@
       <option name="presentableId" value="Default" />
       <updated>1582487192302</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hash function + cleaned up code">
+      <created>1582495186351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582495186352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hash function + cleaned up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash function + cleaned up code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2724" y="198" key="#Notifications" timestamp="1582490610042">
@@ -58,10 +70,18 @@
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
     <state x="2912" y="297" key="FileChooserDialogImpl/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582487752992" />
-    <state x="2633" y="185" key="SettingsEditor" timestamp="1582488066544">
+    <state x="1831" y="286" key="IDE.errors.dialog" timestamp="1582495657425">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
-    <state x="2633" y="185" key="SettingsEditor/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582488066544" />
+    <state x="1831" y="286" key="IDE.errors.dialog/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495657425" />
+    <state x="2147" y="230" key="SettingsEditor" timestamp="1582495903390">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2147" y="230" key="SettingsEditor/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495903390" />
+    <state x="2112" y="251" key="VCS.ChangeListViewerDialog" timestamp="1582503403020">
+      <screen x="1800" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2112" y="251" key="VCS.ChangeListViewerDialog/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582503403020" />
     <state x="2724" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582495116316">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
@@ -71,9 +91,9 @@
     </state>
     <state x="301" y="224" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@0.0.1200.800" timestamp="1582487219972" />
     <state x="2282" y="302" key="com.intellij.ide.util.TipDialog/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582490554561" />
-    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582495082115">
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582503428018">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
-    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495082115" />
+    <state x="2903" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582503428018" />
   </component>
 </project>

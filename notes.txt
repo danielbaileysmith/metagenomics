@@ -4,11 +4,20 @@
 
         taxid_search = {'Bacillus anthracis': '1392', 'Bacillus cereus': '1396'}
 
-
+#figure out default dict
         d = {**kwargs, *args}
 
-
+    #of.write(str(list(ds_analysis.values())))
+    #of.write(str(list(ds_analysis.keys())))
     >> {sfgxf,gxdgnf}
     >> ()
 
-    
+    #append a key value to a set
+#cat each output and combine them together
+#run hash on all them to reverse
+
+# hash functions? how to import/use
+# figure out default dict
+print(list(taxid_analysis.values()))
+print(list(taxid_analysis.keys()))
+print(taxid_analysis)
