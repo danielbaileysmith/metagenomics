@@ -1,6 +1,6 @@
 #Daniel Bailey Smith -- 2/23/2020
 
-data_set = 'example_data.clp'
+data_set = input("Enter file name: " )
 ds = data_set
 
 with open(ds, 'r') as ds:
@@ -22,3 +22,6 @@ with open(ds, 'r') as ds:
 with open('output_file.txt', 'w') as of:
     of.write(str(ds_analysis) + '\n' * 3)
     of.write(str(ds_key_legend))
+
+print(ds_analysis)
+print('Check current directory for output_file.txt for more information.')

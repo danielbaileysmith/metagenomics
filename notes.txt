@@ -20,4 +20,3 @@
 # figure out default dict
 print(list(taxid_analysis.values()))
 print(list(taxid_analysis.keys()))
-print(taxid_analysis)
