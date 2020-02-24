@@ -1,6 +1,6 @@
 #Daniel Bailey Smith -- 2/23/2020
 
-data_set = input("Enter file name: " )
+data_set = input("Enter file name: ")
 ds = data_set
 
 with open(ds, 'r') as ds:
