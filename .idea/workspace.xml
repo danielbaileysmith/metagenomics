@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internship.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship.py" afterDir="false" />
-    </list>
+    <list default="true" id="0927ce3f-6ef1-4384-b480-441445bbed1e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,12 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1582495186352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="user input enabled">
+      <created>1582506011748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582506011749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hash function + cleaned up code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hash function + cleaned up code" />
+    <MESSAGE value="user input enabled" />
+    <option name="LAST_COMMIT_MESSAGE" value="user input enabled" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2724" y="198" key="#Notifications" timestamp="1582490610042">
@@ -90,10 +95,10 @@
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
     <state x="2869" y="405" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495053062" />
-    <state x="2750" y="134" key="CommitChangelistDialog2" timestamp="1582495184440">
+    <state x="2750" y="134" key="CommitChangelistDialog2" timestamp="1582506009493">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
-    <state x="2750" y="134" key="CommitChangelistDialog2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582495184440" />
+    <state x="2750" y="134" key="CommitChangelistDialog2/0.0.1200.800/1800.0.1920.1080@1800.0.1920.1080" timestamp="1582506009493" />
     <state x="2912" y="297" key="FileChooserDialogImpl" timestamp="1582487752992">
       <screen x="1800" y="0" width="1920" height="1080" />
     </state>
